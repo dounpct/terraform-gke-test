@@ -4,7 +4,7 @@
 
 # authen gcp
 
-    export GOOGLE_APPLICATION_CREDENTIALS="/mnt/d/firework/gcr-authen-json/gcp-dmp-devops-jiw-test-terraform/gcp-dmp-devops-2d7fcc8e34ee.json"
+    export GOOGLE_APPLICATION_CREDENTIALS="path-to-your-google-service-account-key/key.json"
 
 # edit resource
 
